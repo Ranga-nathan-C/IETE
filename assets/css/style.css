@@ -156,6 +156,9 @@ h6 {
   padding: 10px 5%;
   margin: 5px;
   width: 600px;
+  text-align: justify;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #hero .event-date-container {
